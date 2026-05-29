@@ -1,5 +1,6 @@
+
 # Hi, I'm Rits! 👋
-# 💫 About Me:
+💫 About Me:
 Big Data Engineer specializing in scalable pipelines and high-performance data architectures. I turn complex raw data into actionable insights — backed by hands-on experience in Data Science and Analytics.<br> I build systems that scale, code that lasts, and solutions that matter.
 
 
