@@ -127,75 +127,6 @@ life_philosophy: "Data is the new oil. Pipelines are the refineries."
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 ACHIEVEMENTS SECTION                                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<img src="./assets/section-trophy.svg" width="200"/>
-
-<br/><br/>
-
-<div align="center">
-  
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=riteshveer&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
-  </a>
-  
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB ANALYTICS                                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<img src="./assets/section-stats.svg" width="220"/>
-
-<br/><br/>
-
-<div align="center">
-  
-  <!-- GitHub Stats + Custom Streak in ONE ROW -->
-  <a href="https://github.com/riteshveer">
-    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=riteshveer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/riteshveer">
-    <img height="195em" src="./assets/streak.svg" alt="GitHub Streak"/>
-  </a>
-  
-  <br/><br/>
-  
-  <!-- 📊 REAL-TIME LANGUAGE USAGE WITH PROGRESS BARS -->
-  <a href="https://github.com/riteshveer">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riteshveer&layout=normal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
-  </a>
-  
-  <br/><br/>
-  
-  <!-- Activity Graph -->
-  <a href="https://github.com/riteshveer">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=riteshveer&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
-  </a>
-  
-  <br/><br/>
-  
-  <!-- Additional Stats Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riteshveer&theme=tokyonight" width="95%" alt="Profile Details"/>
-  
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🎮 CONTRIBUTION SHOWCASE                                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -242,36 +173,6 @@ life_philosophy: "Data is the new oil. Pipelines are the refineries."
   <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java"/></a>
 </p>
 
-<!-- 🤖 AI & MACHINE LEARNING -->
-<h4>🤖 AI & Machine Learning</h4>
-<p>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn" title="Scikit-learn"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" title="Pandas"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" title="NumPy"/></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" title="Matplotlib"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" alt="Seaborn" title="Seaborn"/></a>
-</p>
-
-<!-- 🗄️ DATABASES -->
-<h4>🗄️ Databases</h4>
-<p>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL"/></a>
-</p>
-
-<!-- 🔧 TOOLS & PLATFORMS -->
-<h4>🔧 Tools & Platforms</h4>
-<p>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code"/></a>
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" title="Azure"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" alt="Jupyter" title="Jupyter Notebook"/></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="IntelliJ IDEA" title="IntelliJ IDEA"/></a>
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" title="Tableau"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="MS Excel" title="MS Excel"/></a>
-</p>
-
 <!-- 🔁 BIG DATA & DATA ENGINEERING -->
 <h4>🔁 Big Data & Data Engineering</h4>
 <p>
@@ -300,6 +201,36 @@ Anaconda:
 GCP:
 <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="GCP" title="Google Cloud Platform"/></a>
 
+</p>
+
+<!-- 🤖 AI & MACHINE LEARNING -->
+<h4>🤖 AI & Machine Learning</h4>
+<p>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn" title="Scikit-learn"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" title="Pandas"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" title="NumPy"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" title="Matplotlib"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" alt="Seaborn" title="Seaborn"/></a>
+</p>
+
+<!-- 🗄️ DATABASES -->
+<h4>🗄️ Databases</h4>
+<p>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL"/></a>
+</p>
+
+<!-- 🔧 TOOLS & PLATFORMS -->
+<h4>🔧 Tools & Platforms</h4>
+<p>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" title="Azure"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" alt="Jupyter" title="Jupyter Notebook"/></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="IntelliJ IDEA" title="IntelliJ IDEA"/></a>
+  <a href="https://www.tableau.com/" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" title="Tableau"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="MS Excel" title="MS Excel"/></a>
 </p>
 
 </div>
@@ -407,13 +338,6 @@ GCP:
 <div align="center">
   
   <img src="./assets/footer.svg" width="100%"/>
-  
-  <br/>
-  
-  <!-- ☕ BUY ME A COFFEE -->
-  <a href="https://buymeacoffee.com/redoyanul1y" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
   
   <br/><br/>
   
