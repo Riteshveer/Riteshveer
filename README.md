@@ -1,22 +1,427 @@
-# Hi, I'm Rits! 👋
-# 💫 About Me:
-Big Data Engineer specializing in scalable pipelines and high-performance data architectures. I turn complex raw data into actionable insights — backed by hands-on experience in Data Science and Analytics.<br> I build systems that scale, code that lasts, and solutions that matter.
+<!-- 
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ██████╗ ██╗████████╗███████╗███████╗██╗  ██╗    ██╗   ██╗███████╗███████╗██████╗  ║
+║   ██╔══██╗██║╚══██╔══╝██╔════╝██╔════╝██║  ██║    ██║   ██║██╔════╝██╔════╝██╔══██╗ ║
+║   ██████╔╝██║   ██║   █████╗  ███████╗███████║    ██║   ██║█████╗  █████╗  ██████╔╝ ║
+║   ██╔══██╗██║   ██║   ██╔══╝  ╚════██║██╔══██║    ╚██╗ ██╔╝██╔══╝  ██╔══╝  ██╔══██╗ ║
+║   ██║  ██║██║   ██║   ███████╗███████║██║  ██║     ╚████╔╝ ███████╗███████╗██║  ██║ ║
+║   ╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝      ╚═══╝  ╚══════╝╚══════╝╚═╝  ╚═╝ ║
+║                                                                              ║
+║         🚀 BIG DATA ENGINEER • PYSPARK • AIRFLOW • AWS • KAFKA 🚀           ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+-->
 
+<div align="center">
+  
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  <!-- 🎯 ANIMATED HEADER                                                          -->
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d2b,100:1a0533&height=200&text=RITESH%20VEER&fontSize=65&fontColor=9b72cf&fontAlignY=40&desc=BIG%20DATA%20ENGINEER%20%E2%80%A2%20PYSPARK%20%E2%80%A2%20AIRFLOW%20%E2%80%A2%20AWS&descSize=16&descAlignY=68&descFontColor=aaaaaa&stroke=7b68ee&strokeWidth=2" alt="Ritesh Veer - Big Data Engineer" width="100%"/>
+  
+  <br/>
+  
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  <!-- 📊 PROFILE BADGES                                                           -->
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  
+  <a href="https://github.com/Riteshveer">
+    <img src="https://komarev.com/ghpvc/?username=Riteshveer&label=Profile%20Views&color=764ba2&style=flat-square&base=100" alt="Profile Views"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Riteshveer?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRiteshveer&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" alt="Repositories"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Riteshveer?tab=followers">
+    <img src="https://img.shields.io/github/followers/Riteshveer?label=Followers&style=flat-square&color=667eea&labelColor=1a1b26" alt="Followers"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Riteshveer">
+    <img src="https://img.shields.io/github/stars/Riteshveer?label=Stars&style=flat-square&color=764ba2&labelColor=1a1b26" alt="Stars"/>
+  </a>
+  
+</div>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riteshveer0326@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Riteshveer&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Riteshveer&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Riteshveer&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🖥️ TERMINAL INTRO SECTION                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Riteshveer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
 
----
-[![](https://komarev.com/ghpvc/?username=Riteshveer&icon=0&color=0)](https://visitcount.itsvg.in)
+```json
+{
+  "name"        : "Ritesh Veer",
+  "role"        : "Big Data Engineer",
+  "location"    : "Pune, India 🇮🇳",
+  "university"  : "PCET's Pimpri Chinchwad University (2027)",
+  "focus"       : "Scalable Pipelines & High-Performance Data Architectures",
+  "stack"       : "PySpark • Airflow • Kafka • AWS • dbt",
+  "philosophy"  : "I build systems that scale, code that lasts, and solutions that matter."
+}
+```
 
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d0d2b&height=3&stroke=7b68ee&strokeWidth=1" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 👤 ABOUT ME SECTION                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2>👤 About Me</h2>
+
+<br/>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 🎯 What I Do
+
+```yaml
+name: Ritesh Veer
+located_in: Pune, India 🇮🇳
+degree: B.Tech CSE (AI/ML) — graduating 2027
+targeting: Singapore • Germany • Netherlands
+           Sweden • Australia
+
+areas_of_expertise:
+  - 🏗️  Scalable Big Data Pipelines
+  - ⚡  High-Performance Data Architectures
+  - 🔄  ETL/ELT Pipeline Design
+  - 📊  Data Science & Analytics
+  - 🤖  AI/ML Engineering
+
+currently_building:
+  - Real-Time Streaming Pipelines (Kafka)
+  - Data Platform Portfolio Projects
+  - F1 Domain Data Engineering Case Study
+
+philosophy: "I turn complex raw data into
+             actionable insights."
+```
+
+</td>
+<td width="45%" valign="top">
+
+### 🚀 Current Focus
+
+- 🏗️ **Building** scalable Big Data pipelines
+- ⚡ **Engineering** high-performance data architectures
+- 🌊 **Streaming** with Apache Kafka & Spark Structured Streaming
+- ☁️ **Deploying** on AWS (S3, Glue, Redshift, Lambda)
+- 📦 **Orchestrating** workflows with Apache Airflow
+- 🎯 **Targeting** internship roles internationally
+
+<br/>
+
+### 💡 Quick Facts
+
+- 🎓 B.Tech CSE (AI/ML) — PCET's PCU, Pune
+- 🏎️ Formula 1 data engineering enthusiast
+- 🔥 Passionate about data at scale
+- 🌱 Always building, always learning
+- ☕ Fueled by coffee & curiosity
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d0d2b&height=3&stroke=7b68ee&strokeWidth=1" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🏆 ACHIEVEMENTS SECTION                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2>🏆 GitHub Trophies</h2>
+
+<br/>
+
+<div align="center">
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=Riteshveer&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+  </a>
+  
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d0d2b&height=3&stroke=7b68ee&strokeWidth=1" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB ANALYTICS                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2>📊 GitHub Analytics</h2>
+
+<br/>
+
+<div align="center">
+  
+  <a href="https://github.com/Riteshveer">
+    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Riteshveer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Riteshveer">
+    <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=Riteshveer&theme=tokyonight&hide_border=true&background=0d1117&ring=764ba2&fire=f093fb&currStreakLabel=667eea" alt="GitHub Streak"/>
+  </a>
+  
+  <br/><br/>
+  
+  <a href="https://github.com/Riteshveer">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Riteshveer&layout=normal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
+  </a>
+  
+  <br/><br/>
+  
+  <a href="https://github.com/Riteshveer">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riteshveer&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
+  </a>
+  
+  <br/><br/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Riteshveer&theme=tokyonight" width="95%" alt="Profile Details"/>
+  
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d0d2b&height=3&stroke=7b68ee&strokeWidth=1" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🎮 CONTRIBUTION SHOWCASE                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2>🎮 Contribution Showcase</h2>
+
+<br/>
+
+<div align="center">
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riteshveer/Riteshveer/output/pacman-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riteshveer/Riteshveer/output/pacman-contribution-graph.svg"/>
+    <img alt="Pac-Man eating contributions" src="https://raw.githubusercontent.com/Riteshveer/Riteshveer/output/pacman-contribution-graph-dark.svg" width="100%"/>
+  </picture>
+  
+  <br/>
+  
+  <sub>👾 Watch Pac-Man devour my contributions!</sub>
+  
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d0d2b&height=3&stroke=7b68ee&strokeWidth=1" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ⚡ TECH STACK                                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2>⚡ Tech Stack</h2>
+
+<br/>
+
+<div align="center">
+
+<!-- 💻 LANGUAGES -->
+<h4>💻 Languages</h4>
+<p>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" title="Bash"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript"/></a>
+  <a href="https://www.scala-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=scala&theme=dark" alt="Scala" title="Scala"/></a>
+</p>
+
+<!-- 🏗️ BIG DATA & PIPELINE -->
+<h4>🏗️ Big Data & Pipeline Engineering</h4>
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Apache Hadoop"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white" alt="Delta Lake"/>
+  <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" alt="Apache Flink"/>
+</p>
+
+<!-- ☁️ CLOUD & DATA PLATFORMS -->
+<h4>☁️ Cloud & Data Platforms</h4>
+<p>
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3"/>
+  <img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Glue"/>
+  <img src="https://img.shields.io/badge/AWS%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" alt="AWS Redshift"/>
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" title="Azure"/></a>
+</p>
+
+<!-- 🗄️ DATABASES -->
+<h4>🗄️ Databases</h4>
+<p>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB"/></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" title="Redis"/></a>
+  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Apache Hive"/>
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse"/>
+</p>
+
+<!-- 📊 DATA SCIENCE & ANALYTICS -->
+<h4>📊 Data Science & Analytics</h4>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/FastF1-FF1801?style=for-the-badge&logo=formula1&logoColor=white" alt="FastF1"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
+<!-- 🔧 TOOLS & DEVOPS -->
+<h4>🔧 Tools & DevOps</h4>
+<p>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code"/></a>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" title="Postman"/></a>
+</p>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d0d2b&height=3&stroke=7b68ee&strokeWidth=1" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🔥 CURRENTLY WORKING ON                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+### ⚡ Currently Building & Learning
+
+<br/>
+
+<a href="https://github.com/Riteshveer">
+  <img src="https://img.shields.io/badge/🏗️_Big_Data_Pipelines-PySpark_%26_Airflow-667eea?style=for-the-badge&labelColor=1a1b26"/>
+</a>
+&nbsp;
+<a href="https://github.com/Riteshveer">
+  <img src="https://img.shields.io/badge/🌊_Real--Time_Streaming-Kafka_%26_Flink-764ba2?style=for-the-badge&labelColor=1a1b26"/>
+</a>
+&nbsp;
+<a href="https://github.com/Riteshveer">
+  <img src="https://img.shields.io/badge/🏎️_F1_Data_Engineering-FastF1_%26_dbt-f093fb?style=for-the-badge&labelColor=1a1b26"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d0d2b&height=3&stroke=7b68ee&strokeWidth=1" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌐 CONNECT WITH ME                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2>🌐 Connect With Me</h2>
+
+<br/>
+
+<div align="center">
+  
+<a href="https://github.com/Riteshveer" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://riteshveer.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b26" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d0d2b&height=3&stroke=7b68ee&strokeWidth=1" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 💡 RANDOM DEV QUOTE                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+### 💭 Random Dev Quote
+
+<br/>
+
+<a href="https://github.com/Riteshveer">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="60%"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌟 FOOTER                                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+  <br/>
+  
+  <i>"Big Data Engineer specializing in scalable pipelines and high-performance data architectures.<br/>
+  I turn complex raw data into actionable insights — backed by hands-on experience in Data Science and Analytics.<br/>
+  I build systems that scale, code that lasts, and solutions that matter."</i>
+  
+  <br/><br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=80&section=footer"/>
+  
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📝 END OF README — github.com/Riteshveer                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
