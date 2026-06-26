@@ -103,9 +103,7 @@ life_philosophy: "Data is the new oil. Pipelines are the refineries."
 - 🔬 **Building** production-grade ETL & data pipelines
 - 📦 **Learning** PySpark, Airflow, and Databricks deeply
 - ☁️  **Exploring** cloud-native data engineering on Azure & GCP
-- 🌍 **Targeting** internships in Singapore, Germany & Netherlands
 - 📚 **Studying** Big Data Analytics and distributed systems
-- 🏆 **Competing** in data engineering hackathons
 
 <br/>
 
