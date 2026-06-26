@@ -176,31 +176,14 @@ life_philosophy: "Data is the new oil. Pipelines are the refineries."
 <!-- 🔁 BIG DATA & DATA ENGINEERING -->
 <h4>🔁 Big Data & Data Engineering</h4>
 <p>
-
-Apache Spark:
-<a href="https://spark.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark" title="Apache Spark"/></a>
-
-Hadoop:
-<a href="https://hadoop.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop" title="Apache Hadoop"/></a>
-
-Hive:
-<a href="https://hive.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Hive" title="Apache Hive"/></a>
-
-Kafka:
-<a href="https://kafka.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" title="Apache Kafka"/></a>
-
-Airflow:
-<a href="https://airflow.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" title="Apache Airflow"/></a>
-
-Databricks:
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" title="Databricks"/>
-
-Anaconda:
-<a href="https://www.anaconda.com/" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda&theme=dark" alt="Anaconda" title="Anaconda"/></a>
-
-GCP:
-<a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="GCP" title="Google Cloud Platform"/></a>
-
+  <a href="https://spark.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark" title="Apache Spark"/></a>
+  <a href="https://hadoop.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop" title="Apache Hadoop"/></a>
+  <a href="https://hive.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Hive" title="Apache Hive"/></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" title="Apache Kafka"/></a>
+  <a href="https://airflow.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" title="Apache Airflow"/></a>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" title="Databricks"/>
+  <a href="https://www.anaconda.com/" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda&theme=dark" alt="Anaconda" title="Anaconda"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="GCP" title="Google Cloud Platform"/></a>
 </p>
 
 <!-- 🤖 AI & MACHINE LEARNING -->
