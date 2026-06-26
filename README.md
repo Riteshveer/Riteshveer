@@ -90,7 +90,7 @@ areas_of_expertise:
 currently_building:
   - End-to-end data pipeline projects
   - Big Data portfolio for international roles
-  - Personal portfolio at riteshveer.vercel.app
+  - Machine Learning models
 
 life_philosophy: "Data is the new oil. Pipelines are the refineries."
 ```
@@ -103,9 +103,7 @@ life_philosophy: "Data is the new oil. Pipelines are the refineries."
 - 🔬 **Building** production-grade ETL & data pipelines
 - 📦 **Learning** PySpark, Airflow, and Databricks deeply
 - ☁️  **Exploring** cloud-native data engineering on Azure & GCP
-- 🌍 **Targeting** internships in Singapore, Germany & Netherlands
 - 📚 **Studying** Big Data Analytics and distributed systems
-- 🏆 **Competing** in data engineering hackathons
 
 <br/>
 
@@ -114,8 +112,8 @@ life_philosophy: "Data is the new oil. Pipelines are the refineries."
 - 🎓 B.Tech CSE with AI/ML specialisation at PCU, Pune
 - 🔥 Passionate about scalable data systems
 - 🌱 Currently going deep on Big Data & cloud pipelines
-- ☕ Fueled by curiosity and strong chai
 
+   
 </td>
 </tr>
 </table>
