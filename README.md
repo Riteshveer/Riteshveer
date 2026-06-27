@@ -174,30 +174,31 @@ life_philosophy: "Data is the new oil. Pipelines are the refineries."
 <!-- 🔁 BIG DATA & DATA ENGINEERING -->
 <h4>🔁 Big Data & Data Engineering</h4>
 <p>
-  <a href="https://spark.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark" title="Apache Spark"/></a>
-  <a href="https://hadoop.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop" title="Apache Hadoop"/></a>
-  <a href="https://hive.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Hive" title="Apache Hive"/></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" title="Apache Kafka"/></a>
-  <a href="https://airflow.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" title="Apache Airflow"/></a>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" title="Databricks"/>
-  <a href="https://www.anaconda.com/" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda&theme=dark" alt="Anaconda" title="Anaconda"/></a>
+  <a href="https://spark.apache.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=spark&theme=dark" alt="Spark" title="Apache Spark"/></a>
+  <a href="https://hadoop.apache.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=hadoop&theme=dark" alt="Hadoop" title="Apache Hadoop"/></a>
+  <a href="https://hive.apache.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=hive&theme=dark" alt="Hive" title="Apache Hive"/></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Kafka" title="Apache Kafka"/></a>
+  <a href="https://airflow.apache.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=airflow&theme=dark" alt="Airflow" title="Apache Airflow"/></a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=databricks&theme=dark" alt="Databricks" title="Databricks"/>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="GCP" title="Google Cloud Platform"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" title="Azure"/></a>
 </p>
 
 <!-- 🤖 AI & MACHINE LEARNING -->
 <h4>🤖 AI & Machine Learning</h4>
 <p>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn" title="Scikit-learn"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" title="Pandas"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" title="NumPy"/></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" title="Matplotlib"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" alt="Seaborn" title="Seaborn"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark" alt="Pandas" title="Pandas"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=dark" alt="NumPy" title="NumPy"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib&theme=dark" alt="Matplotlib" title="Matplotlib"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn&theme=dark" alt="Seaborn" title="Seaborn"/></a>
 </p>
 
 <!-- 🗄️ DATABASES -->
 <h4>🗄️ Databases</h4>
 <p>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL"/></a>
+  <a href="https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=hadoop&theme=dark" alt="HDFS" title="Apache HDFS"/></a>
 </p>
 
 <!-- 🔧 TOOLS & PLATFORMS -->
@@ -207,11 +208,11 @@ life_philosophy: "Data is the new oil. Pipelines are the refineries."
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code"/></a>
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" title="Azure"/></a>
+  <a href="https://www.anaconda.com/" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda&theme=dark" alt="Anaconda" title="Anaconda"/></a>
   <a href="https://jupyter.org/" target="_blank"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" alt="Jupyter" title="Jupyter Notebook"/></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="IntelliJ IDEA" title="IntelliJ IDEA"/></a>
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" title="Tableau"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="MS Excel" title="MS Excel"/></a>
+  <a href="https://www.tableau.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=tableau&theme=dark" alt="Tableau" title="Tableau"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=excel&theme=dark" alt="MS Excel" title="MS Excel"/></a>
 </p>
 
 </div>
