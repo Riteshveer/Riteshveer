@@ -76,8 +76,6 @@
 ### 🎯 What I Do
 
 ```yaml
-name: Ritesh Veer
-located_in: Pune, India 🇮🇳
 current_status: B.Tech CSE (AI/ML) Student — Graduating 2027
 
 areas_of_expertise:
